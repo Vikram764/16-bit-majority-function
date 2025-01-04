@@ -1,0 +1,37 @@
+$date
+	Sat Jan 04 22:36:52 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module majority16_test $end
+$var wire 1 ! Out $end
+$var reg 16 " Data [15:0] $end
+$var integer 32 # ret [31:0] $end
+$var integer 32 $ testid [31:0] $end
+$scope module m16 $end
+$var wire 16 % Data [15:0] $end
+$var reg 1 & Out $end
+$var integer 32 ' count [31:0] $end
+$var reg 16 ( i [15:0] $end
+$upscope $end
+$scope task fail $end
+$upscope $end
+$scope task pass $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx (
+bx '
+x&
+bx %
+bx $
+b0 #
+bx "
+x!
+$end
